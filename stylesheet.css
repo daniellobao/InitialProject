@@ -1,0 +1,26 @@
+body{
+	
+	background-color: #D1E0ED;
+	font-family: Arial;
+}
+
+.phead{
+	
+	background-color:#3AB5F2; 
+	text-align: center; 
+	font-family:cursive;
+}
+
+.imgcenter{
+	border: 0.5px;
+	border-radius: 50px;
+}
+
+.table1{
+	
+	background-color: #95B7ED;
+	text-align: center;
+	width: 400px;
+	height: 200px;
+	border-style: solid;
+}
