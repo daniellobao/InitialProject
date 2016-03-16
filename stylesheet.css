@@ -1,0 +1,54 @@
+body{
+	
+	background-color: #D1E0ED;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+.phead{
+	
+	background-color:#AECAD1; 
+	text-align: center; 
+	font-family:cursive;
+}
+
+.imgcenter{
+	
+	border: 0.5px;
+	border-radius: 50px;
+}
+
+.table1{
+	
+	text-align: center;
+	width:400px;
+	height: 200px;
+	border-style: solid;
+	border-color: #A4B0BA;
+
+
+}
+
+table tr:nth-child(2n){
+	background-color:#40586D; 
+	color:#FFFFFF;
+
+}
+
+table tr:nth-child(2n-1){
+	background-color: #8CC1F0;
+	color:#FFFFFF;
+}
+
+.boxvideo1{
+	
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.video1{
+	
+	padding-left: 40px;
+	padding-right: 40px;
+}
